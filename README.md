@@ -1,7 +1,7 @@
 # Marcos Henrich - Software Engineer
-Pronouns: she/her/hers
+Pronouns: he/him
 
-<--
+<!--
 
 Hi everyone! I am a former science teacher and marine scientist turned software engineer! I am driven by a challenge and love that software engineering allows me to learn something new every day. I really enjoy working on a team and collaborating with other engineers - I believe you learn so much more when you get a slough of diverse ideas. I am also competitive, but mostly with myself - I try to challenge myself to always be better than I was yesterday. 
 
@@ -27,4 +27,4 @@ Check out the **live version here**: https://willow-8s24.onrender.com/
 
 When I am not busy programming, I enjoy social dancing, outdoor exploration, beach days, and playing DnD. 
 
---/>
+-->
