@@ -15,4 +15,9 @@ Check out the **live version here**: https://willow-8s24.onrender.com/
 
 When I am not busy programming, I enjoy social dancing, outdoor exploration, beach days, and playing DnD. 
 
+### Contact Info
+
+Alameda, CA (Bay Area)
+jmarcoshenrich@gmail.com
+
 
